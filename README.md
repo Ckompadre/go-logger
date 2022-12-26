@@ -16,7 +16,7 @@ Usage
 -----------------------
 Import package:
 
-    import log "go-logger/logger"
+    import log "github.com/ckompadre/go-logger"
 
 Using methods:
 
